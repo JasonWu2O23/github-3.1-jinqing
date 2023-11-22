@@ -1,1 +1,1 @@
-# github-3.1-jinqing
+# Assignment 3.1 - Introduction to GIT I
