@@ -97,6 +97,9 @@ git log
 `````````````````````````````````````````````````
 ### References
 https://kinsta.com/knowledgebase/install-git/
+\
 https://github.com/su-ntu-ctp/6m-cloud-3.1-introduction-to-git-i/blob/main/CE%203.1%20Introduction%20to%20GIT%20I.pdf
+\
 https://education.github.com/git-cheat-sheet-education.pdf
+\
 https://www.educative.io/answers/what-does-git-diff-head-filename-do
